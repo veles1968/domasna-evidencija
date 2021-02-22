@@ -6,7 +6,6 @@ async function initialize() {
     console.log("libDir = " + dbConfig.dePool.libraryDir);
 
     oracledb.initOracleClient({
-      //   libDir: "C:\\PRIVAT_DATA\\TOOLS\\ORACLE_instantclient_19_9",
       libDir: dbConfig.dePool.libraryDir,
     });
   } catch (err) {
