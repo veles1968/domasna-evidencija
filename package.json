@@ -11,7 +11,7 @@
     "dev": "concurrently --kill-others-on-fail \"npm run client\" \"npm run server\"",
     "client:build": "cd client && expo publish --release-channel staging"
   },
-  "author": "DTabc123456789",
+  "author": "DTabc1234567890123456",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",

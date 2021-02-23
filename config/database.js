@@ -4,7 +4,7 @@ module.exports = {
     password: process.env.DE_PASSWORD,
     connectString: process.env.DE_CONNECTIONSTRING,
     libraryDir: "C:\\PRIVAT_DATA\\TOOLS\\ORACLE_instantclient_19_9",
-    //// libraryDir: "",
+    ////sssssssssssssss libraryDir: "",
     poolMin: 10,
     poolMax: 10,
     poolIncrement: 0,
