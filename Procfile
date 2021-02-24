@@ -1,1 +1,1 @@
-web: npm start
+web: ./client/expo start
